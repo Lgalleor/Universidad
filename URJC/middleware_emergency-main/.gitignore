@@ -1,0 +1,13 @@
+venv/
+data/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+creds/
+testeo*
+cron.log
+nohup.out
+.vscode/
+logs*

@@ -1,0 +1,8 @@
+# Python version: 3.12.0
+pandas
+numpy
+sshtunnel
+pymysql
+sqlalchemy
+requests
+pytest
