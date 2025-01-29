@@ -1,0 +1,50 @@
+{
+    "prod_lot_1" : 
+        {
+            "devices": ["DBEM002", "DBEM007"],
+            "data": 
+                {
+                    "sWEA":
+                    [
+                        "00-temp",
+                        "01-hum",
+                        "02-pres",
+                        "03-siaq",
+                        "04-diaq",
+                        "Q0-asiaq",
+                        "Q1-adiaq"
+                    ],
+                "sAQU":
+                    [
+                        "00-eco2",
+                        "01-tvoc",
+                        "Q0-calib"
+                    ]
+                }
+        },
+    "prod_lot_2" : 
+        {
+            "devices": ["DBEM009", "DBEM010", "DBEM011","DBEM012","DBEM013","DBEM014"],
+            "data": 
+                {
+                    "sWEA":
+                    [
+                        "00-temp",
+                        "01-hum",
+                        "02-pres"
+                    ],
+                "sAQU":
+                    [
+                        "00-co2",
+                        "01-tvoc",
+                        "02-iaq",
+                        "Q0-ciaq"
+                    ],
+                "sENV":
+                    [
+                        "00-pir",
+                        "01-lux"
+                    ]
+                }
+        }
+}
