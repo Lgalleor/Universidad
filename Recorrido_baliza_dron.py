@@ -1,4 +1,6 @@
 #recorrido dron
+#el mapa nos va a dar el recorrido de la baliza y 
+#la calidad del aire en cada punto del recorrido
 
 import plotly.graph_objects as go
 import sqlite3
