@@ -1,3 +1,6 @@
+#recorrido para la base de datos con las variables que usa el codigo de adrian para sacar la ruta del dron
+#guardando cada fecha de cada dato 
+
 import sqlite3
 import time
 import datetime
