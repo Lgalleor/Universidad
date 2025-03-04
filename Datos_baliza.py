@@ -1,7 +1,3 @@
-#En este codigo vamos a sacar los datos mas importantes de la baliza 
-#basandonos en la documentacion sobre la calidad del aire y los parametros
-#que nos da la baliza para luego analizarlos
-
 #datos_baliza
 import pandas as pd
 from deep_insight_utils import fetch_data
